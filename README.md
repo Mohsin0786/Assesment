@@ -23,3 +23,5 @@ I have handled this event using state where at initial state value is false for 
 once button is clicked spinner state becomes true and we see spinner on screen untill the data is fetched once it is fetched the spinner state becomes false and data get hold by 
 data state and we can now see all the cards
 
+
+----------I have used setTimeout to show the spinner effect which will hold the data to fetched for 6 sec after that data will be fetched------------
